@@ -27,4 +27,10 @@ Hillary for America
 ### Skills
 
 ### Portfolio
-[Take a look at some of the things I've designed!](portfolio.md)
+[Take a look at some of the things I've designed!](portfolio.md)  
+
+#### Writing Samples
+[Comment Faire un «Frexit»](URL)  
+[Enlargement of the European Union: Early Expansions and Future Possibilities from the East](URL)  
+[The Impact of Gender Performance on Competency Evaluations of Women Candidates](URL)  
+[You Better Work: RuPaul and Queer Representation in the Media](URL)  
