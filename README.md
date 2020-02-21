@@ -6,5 +6,4 @@ I have classroom experience using data analysis software to employ programming l
 
 ### Education
 North Dakota State University
-
 *BA Economics 2019*
