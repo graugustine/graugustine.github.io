@@ -1,6 +1,6 @@
 title: Greg Augustine
 logo: /headshot.jpg
-description: Welcome to my homepage.  Get in touch with me via [email](mailto:gregory.augustine@ndsu.edu).
+description: Welcome to my homepage.  Get in touch with me via <a href="mailto:gregory.augustine@ndsu.edu">email</a>
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
