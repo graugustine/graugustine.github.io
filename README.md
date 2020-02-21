@@ -25,7 +25,27 @@ Hillary for America
 *Fellow*  
 
 ### Skills
-
+##### Languages
+* Czech
+* English
+* French
+* German
+* Russian
+  
+##### Programming Languages
+* HTML
+* Java
+* Python
+* R
+* SQL
+  
+##### Software
+* Knime
+* Microsoft Excel
+* R
+* Stata
+* Tableau
+  
 ### Portfolio
 [Take a look at some of the things I've designed!](portfolio.md)  
 
