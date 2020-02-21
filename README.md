@@ -25,3 +25,6 @@ Hillary for America
 *Fellow*  
 
 ### Skills
+
+### Portfolio
+[Take a look at some of the things I've designed!](portfolio.md)
