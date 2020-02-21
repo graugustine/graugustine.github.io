@@ -1,4 +1,4 @@
-## Here's a couple of things I've designed!  
+### Here's some graphics I've designed using Illustrator and InDesign. 
 
 #### Rush Posters  
 ![Spring 2019 Rush Poster](https://i.imgur.com/N6GfFjR.jpg?2)
