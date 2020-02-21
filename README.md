@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/graugustine/graugustine.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Greg Augustine and I am a recent graduate from North Dakota State University with a BA in economics.  While I was a student, I was a member of Sigma Alpha Epsilon fraternity where I was the Eminent Correspondent, a position that functioned as the PR Chair for the fraternity.  In this role, I designed a wide variety of marketing materials for recruitment and philanthropy events and was the admin for the [Twitter](https://twitter.com/saendsu), [Instagram](https://www.instagram.com/saendsu/), and [Facebook](https://www.facebook.com/SAEatNDSU/) pages as well as [our website](www.sae-ndsu.com).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have classroom experience using data analysis software to employ programming languages such as R, SQL, and Matlab. I am self- taught in using Tableau and am currently learning to code using GitHub. Additionally, I am working on the Azure fundamentals learning path with a goal of passing the AZ-900 exam. 
 
-### Markdown
+### Education
+North Dakota State University
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/graugustine/graugustine.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*BA Economics 2019*
