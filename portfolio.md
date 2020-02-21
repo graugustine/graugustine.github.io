@@ -1,5 +1,5 @@
 ## Portfolio
-
+----------
 ### Here's some graphics I've designed using Illustrator and InDesign. 
 
 #### Rush Posters  
