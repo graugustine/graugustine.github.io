@@ -5,5 +5,23 @@ My name is Greg Augustine and I am a recent graduate from North Dakota State Uni
 I have classroom experience using data analysis software to employ programming languages such as R, SQL, and Matlab. I am self- taught in using Tableau and am currently learning to code using GitHub. Additionally, I am working on the Azure fundamentals learning path with a goal of passing the AZ-900 exam. 
 
 ### Education
-North Dakota State University
+North Dakota State University  
 *BA Economics 2019*
+
+Charles University in Prague  
+*Study Abroad Spring 2017*
+
+### Experience
+NDSU Office of International Student and Study Abroad Services  
+*Student Worker*  
+
+Gap inc./Banana Republic  
+*Brand Ambassador*  
+
+Mike Honda for Congress  
+*Intern*  
+
+Hillary for America  
+*Fellow*  
+
+### Skills
