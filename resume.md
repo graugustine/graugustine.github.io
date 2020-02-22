@@ -1,11 +1,11 @@
 # Here's a little about me  
-(I also have a [PDF](<Copy of Greg_Augustine_Resume.pdf>) version if that's more your style.)  
+(I also have a [PDF](<Copy of Greg_Augustine_Resume.pdf>) version of my resume if that's more your style.)  
 
 ## Education
-North Dakota State University  
-BA Economics *2019*
+**North Dakota State University**  
+BA Economics *Fall 2019*
 
-Charles University in Prague  
+**Charles University in Prague**  
 Study Abroad *Spring 2017*
 
 ## Experience
