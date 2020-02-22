@@ -38,28 +38,22 @@ Fellow  *1/2016-3/2016*
 
 ### Skills
 ##### Languages
-Language   |  Skill Level
-:---------:|:-----------:
-Czech      |Intermediate 
-English    |Native       
-French     |Fluent       
-German     |Elementary   
-Russian    |Intermediate 
++ Czech
++ English
++ French
++ German
++ Russian
   
 ##### Programming Languages
-Language   |Skill Level    
-:---------:|:-------------:
-HTML       |Advanced       
-Java       |Beginner       
-Python     |Intermediate   
-R          |Intermediate   
-SQL        |Advanced       
++ HTML
++ Java
++ Python
++ R
++ SQL
 
 ##### Software
-Program        |Skill Level
-:-------------:|:----------:
-Knime          |Advanced    
-Microsoft Excel|Expert      
-R              |Advanced    
-Stata          |Intermediate
-Tableau        |Advanced    
++ Knime
++ Microsoft Excel
++ R
++ Stata
++ Tableau
