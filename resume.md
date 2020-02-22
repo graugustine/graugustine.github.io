@@ -2,10 +2,10 @@
 _________
 ### Education
 North Dakota State University  
-*BA Economics 2019*
+BA Economics *2019*
 
 Charles University in Prague  
-*Study Abroad Spring 2017*
+Study Abroad *Spring 2017*
 
 ### Experience
 **NDSU Office of International Student and Study Abroad Services**  
