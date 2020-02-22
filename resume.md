@@ -1,6 +1,6 @@
 # Here's a little about me  
 (I also have a [PDF](<Copy of Greg_Augustine_Resume.pdf>) version if that's more your style.)  
-_________  
+***    
 
 ## Education
 North Dakota State University  
