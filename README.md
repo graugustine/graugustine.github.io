@@ -4,6 +4,8 @@ Hi there! My name is Greg Augustine and I am a graduate from North Dakota State 
 
 I have classroom experience using data analysis software to employ programming languages such as R, SQL, and Matlab. I am self-taught in using Tableau and am currently learning to code using GitHub. Additionally, I am working on the Azure fundamentals learning path with a goal of passing the AZ-900 exam.  If you'd like to learn more about my education, work experiences, or special skills, check out my online [resume](resume.md).
 
+For other *non-business-related* tid bits about me, take a gander at my supplementary info page [here](extra_info.md).
+
 ---------
 
 ## Portfolio
