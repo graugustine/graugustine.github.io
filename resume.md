@@ -1,13 +1,13 @@
-## Here's a little about me  
+# Here's a little about me  
 _________
-### Education
+## Education
 North Dakota State University  
 BA Economics *2019*
 
 Charles University in Prague  
 Study Abroad *Spring 2017*
 
-### Experience
+## Experience
 **NDSU Office of International Student and Study Abroad Services**  
 Student Worker  *8/2018-3/2019*
 + Coordinated academic advising appointments for over 900 international students
@@ -36,22 +36,22 @@ Fellow  *1/2016-3/2016*
 + Contacted registered voters to discuss MN caucus
 + Coordinated distribution of campaign marketing materials across the Fargo-Moorhead metro area
 
-### Skills
-##### Languages
+## Skills
+### Languages
 + Czech
 + English
 + French
 + German
 + Russian
   
-##### Programming Languages
+### Programming Languages
 + HTML
 + Java
 + Python
 + R
 + SQL
 
-##### Software
+### Software
 + Knime
 + Microsoft Excel
 + R
