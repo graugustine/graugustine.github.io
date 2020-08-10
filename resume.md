@@ -17,7 +17,7 @@ Student Worker  *8/2018-3/2019*
 + Planned and executed office events and teamwork activities
 
 **Gap inc./Banana Republic**  
-Brand Ambassador  *6/2015-1/2017*
+Brand Associate  *6/2015-1/2017*
 + Focused on engaging with the customer to meet their individual needs
 + Interacted cooperatively and worked as a team towards a common goal
 + Ensured desired brand experience was fostered in store through customer interaction
